@@ -7,8 +7,8 @@ Hobbies
     * Full - Next on the list.
   * Hiking
     * [Hallasan](https://maps.app.goo.gl/JL6ALowSc5VmdaWX9) ( 1,947 m )
-    * [ABC](https://maps.app.goo.gl/2qwY7k1UctUFJvXPA) ( 4,130 m )
-    * [ABC Circuit](https://maps.app.goo.gl/WkrnuWPtEJpjSG2D7) (**Throng La Pass, 5,416 m**) checked off.
+    * [ABC](https://maps.app.goo.gl/2qwY7k1UctUFJvXPA) ( 4,130 m ) checked off.
+    * [ABC Circuit](https://maps.app.goo.gl/WkrnuWPtEJpjSG2D7) (**Throng La Pass, 5,416 m**) Next on the list.
   * Traveling
      * Been to [Moldova, Morocco, Iceland, Romania, Nepal...](# "Also explored: Russia, Greece, Netherlands, Germany, UAE (Dubai), Spain, Bulgaria, Canada, China, and Thailand!")
   * Hyrox - Grinding to hit that sub-1 hour mark
