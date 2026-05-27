@@ -10,7 +10,7 @@ Hobbies
     * [ABC](https://maps.app.goo.gl/2qwY7k1UctUFJvXPA) ( 4,130 m )
     * [ABC Circuit](https://maps.app.goo.gl/WkrnuWPtEJpjSG2D7) (**Throng La Pass, 5,416 m**) checked off.
   * Traveling
-     Been to [Moldova, Morocco, Iceland, Romania, Nepal...](# "Also explored: Russia, Greece, Netherlands, Germany, UAE (Dubai), Spain, Bulgaria, Canada, China, and Thailand!")
+     * Been to [Moldova, Morocco, Iceland, Romania, Nepal...](# "Also explored: Russia, Greece, Netherlands, Germany, UAE (Dubai), Spain, Bulgaria, Canada, China, and Thailand!")
   * Hyrox - Grinding to hit that sub-1 hour mark
   * Reading - 'Wuthering Heights'
   * Cooking - for my future family
