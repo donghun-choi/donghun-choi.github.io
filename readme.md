@@ -22,7 +22,7 @@ Hobbies
 Currently Working On
 
 Job
-- Mobinn: Fleet operations/management for autonomous delivery robots.
+- Mobinn: Fleet operations - Field Testing / Engineering for autonomous delivery robots.
 
 Main Quests
 - Tastepack: AI-powered design language extraction engine for builders.
