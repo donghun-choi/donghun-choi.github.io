@@ -2,6 +2,7 @@
 
 Hobbies
   * Running
+    * 5K - [19:37](https://www.strava.com/activities/19324788837)
     * 10K - 43:37
     * Half - 1:40:29
     * Full - Next on the list.
@@ -27,12 +28,7 @@ Job
 Main Quests
 - Tastepack: AI-powered design language extraction engine for builders.
 - Uhak.ca: Information platform for Korean students studying abroad in Canada.
-
-Side Quests / Experiments
-* RoomBomb: Badass Roomba with an arm that scans your room, tracks scattered laundry, and throws it into the basket.
-* Vellumary: AI-powered knowledge graph for archiving and exploring Discord server content.
-* Longevitator: Korean healthspan literacy platform.
-
+- 
 ---
 
 Was Working On
